@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "121560958645",
+    "project_id": "call-taxi-4be50",
+    "storage_bucket": "call-taxi-4be50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121560958645:android:d0a6b36c0905bb42b320fc",
+        "android_client_info": {
+          "package_name": "com.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsr5_GuyOF5dv3FFPRVtLCWLNwuVKX4K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121560958645:android:f929b9785cedefb4b320fc",
+        "android_client_info": {
+          "package_name": "com.yisol.taxi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsr5_GuyOF5dv3FFPRVtLCWLNwuVKX4K8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
